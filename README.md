@@ -12,3 +12,8 @@
 - **Tools:** Docker, Jenkins, Git, Visual Studio  
 
 ---
+## 📬 How to reach me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile)  
+- ✉️ Email: prasannakumar2k3@gmail.com  
+
