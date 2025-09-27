@@ -14,6 +14,6 @@
 ---
 ## 📬 How to reach me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/PrasannaKumar2003)  
 - ✉️ Email: prasannakumar2k3@gmail.com  
 
