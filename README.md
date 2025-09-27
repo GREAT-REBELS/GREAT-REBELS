@@ -2,7 +2,6 @@
 
 💻 **.NET & Angular Developer**  
 🚀 Building scalable, secure, and efficient applications  
-☕ Coffee + Code = Life  
 
 ---
 
@@ -13,8 +12,3 @@
 - **Tools:** Docker, Jenkins, Git, Visual Studio  
 
 ---
-
-## 🎉 Fun Zone  
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-
-*"Code, Commit, Push, Repeat..."*  
